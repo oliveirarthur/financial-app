@@ -293,11 +293,17 @@ Apache-2.0
 @firebase/webchannel-wrapper
 Apache-2.0
 
+angular-highcharts
+MIT
+
 firebase/app
 
 firebase/auth
 
 firebase/firestore
+
+highcharts
+https://www.highcharts.com/license
 
 moment
 MIT
